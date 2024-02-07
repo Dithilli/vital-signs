@@ -9,7 +9,7 @@ const PageTitleContainer = () => {
                         <PageTitle
                             classOption="page-title-content content-style2 text-center"
                             subTitle="About"
-                            title="We Are Alexis Studio"
+                            title="We are Vital Signs Delano"
                         />
                     </div>
                 </div>

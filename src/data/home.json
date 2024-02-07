@@ -4,30 +4,30 @@
             {
                 "id": 1,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
+                "title": "Something cool you've done!",
+                "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 2,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
+                "title": "Maybe something delano related?",
+                "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 3,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
+                "title": "We don't have to have three, it's just an option. or more!",
+                "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             }
         ]
     },
     {
-        "qute": "Alexis Photography Studio based in Portland, <br /> Oregon. I specialises in shooting liquids and my colourful liquid work, titled “Biford”, has become very well <br /> known and collectable."
+        "qute": "Vital Signs Delano "
     }
 ]

@@ -49,20 +49,13 @@ const Footer = () => {
                             <div className="widget-item text-center">
                                 <div className="about-widget">
                                     <FooterLogo
-                                        image={`${process.env.PUBLIC_URL}/img/logo.png`}
+                                        image={`${process.env.PUBLIC_URL}/img/vitalLogo.png`}
                                     />
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
-                                        <i className="icofont-heart-alt"></i> by{" "}
-                                        <a
-                                            target="_blank"
-                                            href="https://www.hasthemes.com"
-                                            rel="noreferrer"
-                                        >
-                                            HasThemes
-                                        </a>
+                                        Vital Signs Delano &copy; 2021. All
+                                        Rights Reserved.
                                     </p>
                                 </div>
                             </div>

@@ -47,7 +47,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                     <div className="off-canvas-item">
                         <div className="asside-navigation-area">
                             <ul className="asside-menu">
-                                <li className="item">
+                                {/*  <li className="item">
                                     <NavLink
                                         exact
                                         to={process.env.PUBLIC_URL + "/"}
@@ -148,8 +148,8 @@ const HamburgerMenu = ({ show, onClose }) => {
                                                 Blog Details
                                             </NavLink>
                                         </li>
-                                    </ul>
-                                </li>
+                                    </ul> */}
+                                {/* </li> */}
                             </ul>
                         </div>
                     </div>
