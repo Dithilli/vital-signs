@@ -47,11 +47,11 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div className="widget-item text-center">
-                                <div className="about-widget">
+                                {/* <div className="about-widget">
                                     <FooterLogo
                                         image={`${process.env.PUBLIC_URL}/img/vitalLogo.png`}
                                     />
-                                </div>
+                                </div> */}
                                 <div className="widget-copyright">
                                     <p>
                                         Vital Signs Delano &copy; 2021. All

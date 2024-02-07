@@ -65,10 +65,10 @@
         .footer-logo {
             display: inline-block;
             @media #{$lg-device} {
-                max-width: 150px;
+                max-width: 75px;
             }
             @media #{$sm-device} {
-                max-width: 130px;
+                max-width: 75px;
             }
         }
         p {
