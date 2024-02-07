@@ -3,24 +3,24 @@
         "slider": [
             {
                 "id": 1,
-                "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Something cool you've done!",
+                "backgroundImage": "/img/hero-slider/del_toro_large.jpg",
+                "title": "Vital Visual Interior Graphics",
                 "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 2,
-                "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Maybe something delano related?",
+                "backgroundImage": "/img/hero-slider/realestate_large.png",
+                "title": "Vital Visual Sign System",
                 "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 3,
-                "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "We don't have to have three, it's just an option. or more!",
+                "backgroundImage": "/img/hero-slider/wm_entrance_large.png",
+                "title": "Vital Visual Exhibits & Displays",
                 "subTitle": "vital signs delano",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
