@@ -54,7 +54,7 @@ const Header = ({ classOption }) => {
                         <div className="col-auto">
                             <div className="header-logo-area">
                                 <Logo
-                                    image={`${process.env.PUBLIC_URL}/img/vitalLogo.svg`}
+                                    image={`${process.env.PUBLIC_URL}/img/vitalLogo.png`}
                                 />
                             </div>
                         </div>
