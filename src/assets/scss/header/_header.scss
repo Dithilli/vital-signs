@@ -283,7 +283,7 @@
         }
 
         .header-logo-area {
-            max-width: none;
+            max-width: 25vw;
             @media #{$md-device} {
                 max-width: 140px;
             }

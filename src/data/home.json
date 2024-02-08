@@ -3,31 +3,31 @@
         "slider": [
             {
                 "id": 1,
-                "backgroundImage": "/img/hero-slider/del_toro_large.jpg",
-                "title": "Vital Visual Interior Graphics",
-                "subTitle": "vital signs delano",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "/img/hero-slider/e&d.jpg",
+                "title": "Exhibits & Displays",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             },
             {
                 "id": 2,
-                "backgroundImage": "/img/hero-slider/realestate_large.png",
-                "title": "Vital Visual Sign System",
-                "subTitle": "vital signs delano",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "/img/hero-slider/ig.jpg",
+                "title": "Interior Graphics",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             },
             {
                 "id": 3,
-                "backgroundImage": "/img/hero-slider/wm_entrance_large.png",
-                "title": "Vital Visual Exhibits & Displays",
-                "subTitle": "vital signs delano",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "buttonText": "Explore now"
+                "backgroundImage": "/img/hero-slider/m.jpg",
+                "title": "Monuments",
+                "subTitle": "",
+                "desc": "",
+                "buttonText": ""
             }
         ]
     },
     {
-        "qute": "Vital Signs Delano "
+        "qute": " "
     }
 ]

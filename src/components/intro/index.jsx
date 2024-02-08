@@ -2,14 +2,12 @@ import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 const Intro = ({ data }) => {
     return (
-        <div
-            className="intro-section section overlay"
-            style={{
-                backgroundImage: `url(${
-                    process.env.PUBLIC_URL + data.backgroundImage
-                })`,
-            }}
-        >
+        <div className="intro-section section overlay">
+            <img
+                src={data.backgroundImage}
+                alt="intro"
+                className="intro-section img"
+            />
             <div className="container">
                 <div className="row row-cols-lg-1 row-cols-1">
                     <div className="col align-self-center">

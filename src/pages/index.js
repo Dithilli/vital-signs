@@ -1,7 +1,6 @@
 import React from "react";
 import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
-import QuteContainer from "../containers/global/global-qute/index.jsx";
 import PortfolioContainer from "../containers/global/portfolio/index.jsx";
 import IntroContainer from "../containers/home/intro/index.jsx";
 import Footer from "../layouts/footer";
@@ -17,7 +16,6 @@ const HomePage = () => {
                     <Header />
                     <IntroContainer />
                     <div className="main-content">
-                        <QuteContainer />
                         <PortfolioContainer />
                     </div>
                     <Footer />

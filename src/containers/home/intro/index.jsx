@@ -10,7 +10,7 @@ SwiperCore.use([Pagination]);
 const IntroContainer = () => {
     const swiperOption = {
         loop: true,
-        speed: 750,
+        speed: 1000,
         spaceBetween: 0,
         slidesPerView: 1,
         pagination: { clickable: true },
